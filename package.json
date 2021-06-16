@@ -35,7 +35,7 @@
   "optionalDependencies": {
     "dtrace-provider": "~0.8",
     "mv": "~2",
-    "safe-json-stringify": "~1",
+    "safe-json-stringify": "https://github.com/ntr-808/safe-json-stringify.git#patch-1",
     "moment": "^2.19.3"
   },
   "devDependencies": {
